@@ -1,0 +1,9 @@
+{
+  "version": "5.0.0",
+  "package_format": "full-package-zip-v1",
+  "download_url": "https://github.com/lmj0479/sjm32-p551-c23-asdw13/releases/download/v5.0.0/PipeMasterPackage_5.0.0.zip",
+  "sha256": "3bcad6ffc87ace27f239f461b2a94c7ecfcda556939430710701aa9347620a1a",
+  "size": 413170573,
+  "release_notes": "Pipe Master v5.0\n\n- 전체 패키지 자동 업데이트 기능을 추가했습니다.\n- 프로그램에서 업데이트 ZIP을 직접 다운로드하고 검증한 뒤 자동 적용합니다.\n- 새 버전 실행 실패 시 이전 버전으로 자동 복구합니다.\n- Pipe Master v4.32의 기존 기능을 그대로 유지합니다.",
+  "mandatory": false
+}
