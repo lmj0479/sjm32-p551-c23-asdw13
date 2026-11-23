@@ -1,9 +1,9 @@
 {
-  "version": "5.1.0",
+  "version": "5.1.1",
   "package_format": "full-package-zip-v1",
-  "download_url": "https://github.com/lmj0479/sjm32-p551-c23-asdw13/releases/download/v5.1.0/PipeMasterPackage_5.1.0.zip",
-  "sha256": "56f25e177962b37f8ac738cdfdfb92408c2a4ba32f0739268f44dd7b7c9384c9",
-  "size": 423939021,
+  "download_url": "https://github.com/lmj0479/sjm32-p551-c23-asdw13/releases/download/v5.1.1/PipeMasterPackage_5.1.1.zip",
+  "sha256": "d969999992ca79898f0837ec40c167aff0f66beae066e8a70680099c8b413369",
+  "size": 423937705,
   "release_notes": "",
   "mandatory": false
 }
